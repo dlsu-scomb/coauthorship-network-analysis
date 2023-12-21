@@ -1,5 +1,4 @@
 # Research landscape of Filipino mathematicians: A co-authorship network analysis
-### Paul K. Yu, Gerard C. Aurellano, Edriel B. Guanzon, Ethan Matthew T. Templonuevo, Unisse C. Chua, Briane Paul V. Samson, John Rhayel S. Delos Santos, and Angelyn R. Lao
 ![badge][badge-jupyter]
 ![badge][badge-python]
 ![badge][badge-pandas]
